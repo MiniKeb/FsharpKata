@@ -1,0 +1,13 @@
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\FizzBuzzTests.XML
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\FizzBuzzTests.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\FizzBuzzTests.pdb
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\FizzBuzz.exe
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\FSharp.Core.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\nunit.framework.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\FizzBuzz.pdb
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\FizzBuzz.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\FSharp.Core.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\bin\Debug\nunit.framework.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\obj\Debug\FizzBuzzTests.fsprojResolveAssemblyReference.cache
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\obj\Debug\FizzBuzzTests.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzzTests\obj\Debug\FizzBuzzTests.pdb

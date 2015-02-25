@@ -1,0 +1,8 @@
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzz\bin\Debug\FizzBuzz.XML
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzz\bin\Debug\FSharp.Core.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzz\bin\Debug\FSharp.Core.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FizzBuzz\obj\Debug\FizzBuzz.pdb

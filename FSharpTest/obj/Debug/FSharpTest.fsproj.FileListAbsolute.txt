@@ -1,0 +1,16 @@
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\FSharpTest.dll.config
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\FSharpTest.XML
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\FSharpTest.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\FSharpTest.pdb
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\FsCheck.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\FSharp.Core.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\FsUnit.NUnit.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\nunit.framework.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\Unquote.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\FsCheck.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\FSharp.Core.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\nunit.framework.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\bin\Debug\Unquote.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\obj\Debug\FSharpTest.fsproj.FSharpTest.dll.config
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\obj\Debug\FSharpTest.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTest\obj\Debug\FSharpTest.pdb

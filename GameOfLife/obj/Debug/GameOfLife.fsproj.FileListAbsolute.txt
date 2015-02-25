@@ -1,0 +1,8 @@
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\GameOfLife\bin\Debug\GameOfLife.XML
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\GameOfLife\bin\Debug\FSharp.Core.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\GameOfLife\bin\Debug\FSharp.Core.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\GameOfLife\obj\Debug\GameOfLife.pdb

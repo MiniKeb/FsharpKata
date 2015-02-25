@@ -1,0 +1,7 @@
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTuto\bin\Debug\FSharpTuto.XML
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTuto\bin\Debug\FSharpTuto.exe
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTuto\bin\Debug\FSharpTuto.pdb
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTuto\bin\Debug\FSharp.Core.dll
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTuto\bin\Debug\FSharp.Core.xml
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTuto\obj\Debug\FSharpTuto.exe
+C:\Users\sebastien.rabiller\Documents\Visual Studio 2013\Projects\FSharpTuto\FSharpTuto\obj\Debug\FSharpTuto.pdb

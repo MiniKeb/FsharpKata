@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpTuto", "FSharpTuto\FSharpTuto.fsproj", "{D39D232A-3FD7-487E-81D6-15FFDB712F00}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpTest", "FSharpTest\FSharpTest.fsproj", "{BB497742-1A76-4C6D-A3DC-FB9246374F9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D985C133-AB60-4C73-947C-1AB728529ED9}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzz", "FizzBuzz\FizzBuzz.fsproj", "{E89BDA9C-A318-4D63-9755-AC518E2A4439}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzBuzzTests", "FizzBuzzTests\FizzBuzzTests.fsproj", "{05542B25-4371-479D-BC47-EE98F6D2F1F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KataFizzBuzz", "KataFizzBuzz", "{1738656A-9DCF-4E51-97AE-8583F3C3E726}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KataGameOfLife", "KataGameOfLife", "{74B4734D-D67E-4A8F-AB64-5AE5D5E407BB}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GameOfLife", "GameOfLife\GameOfLife.fsproj", "{5F5D201F-994F-4100-9FBE-AD949706C91B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GameOfLifeTests", "GameOfLifeTests\GameOfLifeTests.fsproj", "{C09A9CE5-B9D4-492E-8225-A5B9F711C286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39D232A-3FD7-487E-81D6-15FFDB712F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39D232A-3FD7-487E-81D6-15FFDB712F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39D232A-3FD7-487E-81D6-15FFDB712F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39D232A-3FD7-487E-81D6-15FFDB712F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB497742-1A76-4C6D-A3DC-FB9246374F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB497742-1A76-4C6D-A3DC-FB9246374F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB497742-1A76-4C6D-A3DC-FB9246374F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB497742-1A76-4C6D-A3DC-FB9246374F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89BDA9C-A318-4D63-9755-AC518E2A4439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89BDA9C-A318-4D63-9755-AC518E2A4439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89BDA9C-A318-4D63-9755-AC518E2A4439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89BDA9C-A318-4D63-9755-AC518E2A4439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05542B25-4371-479D-BC47-EE98F6D2F1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05542B25-4371-479D-BC47-EE98F6D2F1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05542B25-4371-479D-BC47-EE98F6D2F1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05542B25-4371-479D-BC47-EE98F6D2F1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5D201F-994F-4100-9FBE-AD949706C91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5D201F-994F-4100-9FBE-AD949706C91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5D201F-994F-4100-9FBE-AD949706C91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5D201F-994F-4100-9FBE-AD949706C91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09A9CE5-B9D4-492E-8225-A5B9F711C286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09A9CE5-B9D4-492E-8225-A5B9F711C286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09A9CE5-B9D4-492E-8225-A5B9F711C286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09A9CE5-B9D4-492E-8225-A5B9F711C286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E89BDA9C-A318-4D63-9755-AC518E2A4439} = {1738656A-9DCF-4E51-97AE-8583F3C3E726}
+		{05542B25-4371-479D-BC47-EE98F6D2F1F0} = {1738656A-9DCF-4E51-97AE-8583F3C3E726}
+		{5F5D201F-994F-4100-9FBE-AD949706C91B} = {74B4734D-D67E-4A8F-AB64-5AE5D5E407BB}
+		{C09A9CE5-B9D4-492E-8225-A5B9F711C286} = {74B4734D-D67E-4A8F-AB64-5AE5D5E407BB}
+	EndGlobalSection
+EndGlobal
